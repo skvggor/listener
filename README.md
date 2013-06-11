@@ -19,8 +19,8 @@ Install in Debian/Ubuntu with APT:
 
 `sudo apt-get install inotify-tools`
 
-Basic use
-=========
+Basic usage
+===========
 
 `./listener.sh inputfile "commmands"`
 
