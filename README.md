@@ -45,7 +45,7 @@ $ `./listener.sh scripts.js "yuicompressor scripts.js -o scripts.min.js"`
 
 Then when saving the `scripts.coffe`, `scripts.min.js` is updated \o/.
 
-###Video
+###Video:
 http://www.youtube.com/watch?v=-shCQJYdVKo
 
 
