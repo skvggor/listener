@@ -52,5 +52,5 @@ http://www.youtube.com/watch?v=-shCQJYdVKo
 License
 =======
 
-GNU General Public Licence
+GNU General Public License
 http://www.gnu.org/licenses/gpl.html
